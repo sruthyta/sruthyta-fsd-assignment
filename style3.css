@@ -1,0 +1,32 @@
+*{padding: 0px;
+    margin: 0px;}
+    /* form */
+    
+    .login{
+        width:350px;
+        height:540px;
+        position: fixed;
+        background-color:yellowgreen;
+        top: 26%;
+        left: 45%;
+        margin-top: -100px;
+        margin-left: -100px;
+        padding-left: 20px;
+        padding-top: 1px;
+        padding-bottom: 30px;
+        border: 2px solid yellow;
+    }
+    .login h2{
+        /* text-align: center; */
+        padding-left: 90px;
+        padding-top: 1px;
+    }
+    .login-cont{width: 100%;
+    padding-left: 70px;}
+    .login #login-button{
+        width:85% ;
+        background-color: goldenrod;
+        height: 1.8em;
+        padding-left: 10px;
+        margin-left: 15px;
+    }

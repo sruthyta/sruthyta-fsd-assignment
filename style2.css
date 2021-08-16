@@ -1,0 +1,26 @@
+*{padding: 0px;
+margin: 0px;}
+/* form */
+
+.login{
+    width:300px;
+    height:350px;
+    position: fixed;
+    background-color:yellowgreen;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -100px;
+    padding-left: 50px;
+    padding-top: 10px;
+    border: 2px solid yellow;
+}
+.login h2{
+    /* text-align: center; */
+    padding-left: 50px;
+}
+.login #login-button{
+    width:72% ;
+    background-color: goldenrod;
+    height: 1.5em;
+}
